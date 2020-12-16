@@ -1,7 +1,7 @@
 <img src="https://www.codexus.fr/wp-content/uploads/2020/08/cropped-b076f14e-17f0-4cfa-a9ac-5838a45e5890-192x192.png" height="60" align="right">
 
 <h1 align="center">
-Astropilot's profile
+TheNoobProgrammeur's profile
 </h1>
 
 <p align="center">
