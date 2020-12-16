@@ -33,7 +33,7 @@ TheNoobProgrammeur's profile
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yohann-martin/" target="blank">
+  <a href="https://www.linkedin.com/in/antoine-berthier-623365146" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/antoine-berthier-623365146/" height="30" width="30" />
   </a>
 </p>
